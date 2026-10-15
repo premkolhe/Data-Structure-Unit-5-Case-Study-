@@ -1,0 +1,13 @@
+CITY NAVIGATION
+Shortest route: Central -> Park -> Museum -> Airport
+Total distance: 6 km
+
+HUFFMAN CODING
+Original text: 'banana bandana'
+Character codes:
+b : 100
+a : 0
+n : 101
+space : 110
+d : 111
+Encoded bits: 100010101011001101110010
